@@ -13,7 +13,7 @@ console.log("Listening on port " + port);
 
 io.on('connection', function(socket){
   'use strict';
-  console.log('a user connected from ' + socket.request.connection.remoteAddress
+  console.log('a user connected from ' + socket.request.connection.remoteAddress);
 
         // Check realsense signal
         socket.on('realsense_signal', function(data){
