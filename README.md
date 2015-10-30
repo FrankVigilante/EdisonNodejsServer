@@ -8,4 +8,4 @@ This Python script sends emails with images attached
 This Program run the Altitude sensor
 
 
-From Watson1
+#From Watson1
