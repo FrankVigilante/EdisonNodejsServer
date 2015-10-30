@@ -33,14 +33,14 @@ use as local host: smtp.live.com
 localHost = "smtp.La-drones.com"
 
 # Set the sender credentials
-emailSender = "Frank@La-drones.com"
-password = "Lake5geneva?"
+emailSender = "enteryouraddress@email.com"
+password = "enteryourpassword"
 
 # Set the receiver email
-emailReceiver = "Frank@La-Drones.com"
+emailReceiver = "enteryouraddress@emails.com"
 
 # Set the image name that will be attached to the email
-image2attach = "birdseyeview.jpg"
+image2attach = "image.jpg"
 
 # Building the message
 message = MIMEMultipart()
